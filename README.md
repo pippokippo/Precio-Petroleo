@@ -1,18 +1,4 @@
 # Precio-Petroleo
----
-title: "Pronóstico del Precio del Petróleo Oriente y WTI"
-author: "Ramiro Mosquera"
-date: "13 January 2021"
-output:
-  html_document:
-    keep_md: yes
-  pdf_document: default
----
-
-
-
-
-
 
 ## Método Holt-Winters
 
